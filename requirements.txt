@@ -1,3 +1,4 @@
 flask>=3.0
 PyJWT>=2.7
 gunicorn
+psycopg[binary]>=3.2,<4
